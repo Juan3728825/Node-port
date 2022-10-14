@@ -1,0 +1,22 @@
+{
+  "name": "node-activity",
+  "version": "1.0.0",
+  "description": "My first node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juan3728825/Primera-vez-en-node.git"
+  },
+  "author": "Juan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juan3728825/Primera-vez-en-node/issues"
+  },
+  "homepage": "https://github.com/Juan3728825/Primera-vez-en-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
